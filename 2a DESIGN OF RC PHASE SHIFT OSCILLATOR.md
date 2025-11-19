@@ -9,19 +9,19 @@
 
 
 # Circuit Diagram 
+![WhatsApp Image 2025-11-19 at 18 56 33_dde8edf2](https://github.com/user-attachments/assets/98dbb1a1-cb63-4937-a586-3701ef3e1c84)
+
 <img width="486" height="409" alt="image" src="https://github.com/user-attachments/assets/70da1bde-cdfe-4270-bd1d-c82fbc1bffd3" />
 
 
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|    5.11v        |    320us          |     3.12khz                 |        5.8khz                |
 
 # Graph
+![WhatsApp Image 2025-11-19 at 18 56 33_4d442e79](https://github.com/user-attachments/assets/78587a7d-513e-4743-883f-da27776d4dd2)
 
-
-
-# Sample images 
 
 
 
@@ -29,5 +29,5 @@
 
 Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency : 5.8khz**  
+- **(ii) Practical Frequency : 3.12khz**  
